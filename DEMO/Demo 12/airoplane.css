@@ -1,0 +1,35 @@
+.body{
+
+    height: 650px;
+    width: 100%;
+	background-image: url(p3.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.air{
+
+position: absolute;
+top: 310px;
+
+
+}
+.air img
+{
+	height: 300px;
+     width: 400px;
+     transform: skewX(20deg);
+     float: left;
+     animation-name: airoplane;
+     animation-duration: 5s;
+     position: relative;
+     animation-iteration-count: infinite;
+}
+
+@keyframes airoplane{
+
+	0%{top: 60px;left: 0%;}
+
+	30%{top: 40px;left: 500px;}
+
+	65%{top:-450px;left: 1350px;}
+}

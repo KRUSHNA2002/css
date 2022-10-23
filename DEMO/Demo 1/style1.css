@@ -1,0 +1,204 @@
+.a{
+
+
+background-color: yellow;
+height: 75px;
+width: 10%;
+float: left;
+border-top: 3px solid black;
+border-right:  3px solid black;
+box-sizing: border-box;
+}
+
+.b
+{
+	height: 75px;
+	width: 10%;
+	background-color: yellow;
+	float: left;
+	border-bottom: 3px solid black;
+	box-sizing: border-box;
+}
+.b img
+{
+	margin-left: 30px;
+}
+.e
+{
+   height: 75px;
+	width: 60%;
+	background-color: yellow;
+	float: left;
+}
+.c
+{
+height: 75px;
+	width: 10%;
+	background-color: yellow;
+	float: left;
+	border-bottom: 3px solid black;
+	box-sizing: border-box;
+}
+.c img
+{
+	margin-left: 30px;
+}
+.d
+{
+	background-color: yellow;
+height: 75px;
+width: 10%;
+float: left;
+border-top: 3px solid black;
+border-left:3px solid black;
+box-sizing: border-box;
+}
+
+
+.f{
+
+
+background-color: yellow;
+height: 75px;
+width: 10%;
+float: left;
+
+}
+
+.g
+{
+	height: 75px;
+	width: 10%;
+	background-color: yellow;
+	float: left;
+	border-right: 3px solid black;
+	box-sizing: border-box;
+}
+.h
+{
+   height: 75px;
+	width: 10%;
+	background-color: yellow;
+	float: left;
+	border-bottom: 3px solid black;
+	box-sizing: border-box;
+}
+.i
+{
+height: 75px;
+	width: 40%;
+	background-color: yellow;
+	float: left;
+	
+}
+.h img
+{
+	margin-left: 30px;
+}
+.j
+{
+	background-color: yellow;
+height: 75px;
+width: 10%;
+float: left;
+border-bottom: 3px solid black;
+box-sizing: border-box;
+}
+.j img
+{
+	margin-left: 30px;
+}
+.k
+{
+	background-color: yellow;
+height: 75px;
+width: 10%;
+float: left;
+border-left: 3px solid black;
+
+box-sizing: border-box;
+}
+.l
+{
+	height: 75px;
+	width: 10%;
+	background-color: yellow;
+	float: left;
+
+}
+.m
+{
+	height: 75px;
+	width: 10%;
+	background-color: yellow;
+	float: left;
+
+}
+.n
+{
+	height: 75px;
+	width: 10%;
+	background-color: yellow;
+	float: left;
+}
+.o
+{
+	background-color: yellow;
+height: 75px;
+width: 10%;
+float: left;
+border-right:3px solid black;
+box-sizing: border-box;
+}
+.p
+{
+
+	height: 75px;
+	width: 40%;
+	background-color: yellow;
+	float: left;
+	border-bottom: 3px solid black;
+	box-sizing: border-box;
+}
+.q
+{
+		height: 75px;
+	width: 10%;
+	background-color: yellow;
+	float: left;
+	border-left: 3px solid black;
+	box-sizing: border-box;
+}
+.x
+{
+	height: 500px;
+	width: 100%;
+	background-color: yellow;
+	float: left;
+    
+	
+}
+
+.x img
+{
+	margin-top: 80px;
+	border:10px solid purple;
+	box-sizing: border-box;
+	margin-left: 15px;
+	width:310px;
+	height: 310px;
+}
+
+.p img
+{
+	margin-left: 40px;
+	
+}
+.border
+{
+	
+	
+}
+body{
+	border-right: 10px solid black;
+}

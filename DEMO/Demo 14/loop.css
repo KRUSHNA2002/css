@@ -1,0 +1,117 @@
+.box1{
+
+    margin-top: 100px;
+	height: 500px;
+	width: 100%;
+	border-radius: 50%;
+	background-color: red;
+	animation-name: box1;
+	animation-duration: 0.5s;
+	animation-iteration-count: infinite;
+	
+}
+
+.box2{
+
+  
+    padding: 5px;
+	height: 400px;
+	width: 80%;
+	border-radius: 50%;
+	background-color: blue;
+	position: absolute;
+	top: 140px;
+	left: 120px;
+	animation-name: box2;
+	animation-duration: 0.5s;
+	animation-iteration-count: infinite;
+	
+}
+.box3{
+
+  
+    padding: 5px;
+	height: 300px;
+	width: 80%;
+	border-radius: 50%;
+	background-color: black;
+	position: absolute;
+	top: 50px;
+	left: 100px;
+	animation-name: box3;
+	animation-duration: 0.5s;
+	animation-iteration-count: infinite;
+	
+}
+.box4{
+
+  
+    padding: 5px;
+	height: 200px;
+	width: 80%;
+	border-radius: 50%;
+	background-color: pink;
+	position: absolute;
+	top: 50px;
+	left: 100px;
+		animation-name: box4;
+	animation-duration: 0.5s;
+	animation-iteration-count: infinite;
+	
+
+}
+.box5{
+
+  
+    padding: 5px;
+	height: 100px;
+	width: 80%;
+	border-radius: 50%;
+	background-color: purple;
+	position: absolute;
+	top: 50px;
+	left: 70px;
+		animation-name: box5;
+	animation-duration: 0.5s;
+	animation-iteration-count: infinite;
+	
+}
+
+@keyframes box1{
+	20%{background: red;}
+	40%{background: blue;}
+	60%{background: black;}
+	80%{background: yellow;}
+	
+}
+@keyframes box2{
+	22%{background: blue;}
+	42%{background:black;}
+	62%{background: yellow;}
+	82%{background:red;}
+	
+}
+@keyframes box3{
+	24%{background: black; }
+	44%{background: yellow;}
+	64%{background: red;}
+	84%{background: blue;}
+	
+}
+@keyframes box4{
+	26%{background: yellow; }
+	46%{background:red;}
+	66%{background: blue;}
+	86%{background:black;}
+	
+	
+}
+@keyframes box5{
+	28%{background: red; }
+	48%{background: blue;}
+	68%{background: black;}
+	88%{background: yellow;}
+	
+	
+	
+}
