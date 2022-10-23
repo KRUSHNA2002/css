@@ -1,0 +1,262 @@
+
+.area1
+{
+	height:670px;
+	width: 70%;
+	background-color: black;float: left;
+}
+.area2
+{
+	height: 700px;
+	width: 30%;
+	background-color:black;
+	float: left;
+}
+.mute
+{
+	height: 50px;
+	width: 100%;
+	background-color: red;
+}
+.main
+{
+	margin-top: 130px;
+	margin-left: 415px;
+	background-image: url();
+	height: 80px;
+	width: 100px;
+	color: white;
+	border-radius: 50%;
+	background-color: purple;
+	background-position: center center;
+	text-align: center;
+	padding-top:  20px;
+	font-size: 50px;
+}
+.pin
+{
+	height: 50px;
+	width: 100%;
+	float: left;
+	color: white;
+	background-color: black;
+
+}
+.frame_box
+{
+	height: 175px;
+	width: 100%;
+	/*background-color: green;*/
+	float: left;
+	/*padding-bottom: 5px;*/
+}
+.frame
+{
+	height:165px;
+	width: 16%;
+	margin-left: 5px;
+	border-radius: 10px;
+	background-color: slategrey;
+	float: left;
+	/*padding-bottom: 5px;*/
+}
+.round{
+	height: 40px;
+	width: 50px;
+	background-color: purple;
+	border-radius: 50%;
+	margin-left: 50px;
+	margin-top: 40px;
+	background-position: center center;
+	text-align: center;
+	padding-top:  10px;
+	font-size: 30px;
+	color: white;
+
+}
+.frame_box h6
+{
+	color: white;
+	text-align: center;
+}
+.icon{
+	height: 75px;
+	width: 100%;
+	/*background-color: red;*/
+	float: left;
+	/*background-color: black;*/
+}
+
+.a{
+	height: 75px;
+	width: 45%;
+	/*background-color: red;*/
+	float: left;
+}
+
+.a h4
+{
+	height: 75px;
+	width: 30%;
+	color: white;
+	margin-left: 20px;
+	font-size: 15px;
+	padding-top: 10px;
+	
+}
+.b{
+	height: 75px;
+	width: 55%;
+	/*background-color: greenyellow;*/
+	float: left;
+	padding-top: 10px;
+}
+
+.mute2
+{
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+	background-color: gray;
+	float: left;
+	margin-left: 25px;
+	margin-top: 10px;
+	
+}
+.video
+{
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+	background-color: gray;
+	float: left;
+	margin-left: 25px;
+	margin-top: 10px;
+
+	
+}
+.cc
+{
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+	background-color: gray;
+	float: left;
+	margin-left: 25px;
+	margin-top: 10px;
+	
+}
+.present
+{
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+	background-color: gray;
+	float: left;
+	margin-left: 25px;
+	margin-top: 10px;
+	
+}
+.dot
+{
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+	background-color: gray;
+	float: left;
+	margin-left: 25px;
+	margin-top: 10px;
+	
+}
+.call
+{
+	height: 40px;
+	width: 60px;
+	border-radius: 40px;
+	background-color: gray;
+	float: left;
+	margin-left: 25px;
+	margin-top: 10px;
+	
+}
+.area3
+{
+	height: 575px;
+	width: 90%;
+	border-radius: 10px;
+	background-color:white;
+	margin-left: 20px;
+	margin-top: 20px;
+
+}
+.area3 h2
+{
+	height: 10px;
+	width: 100%;
+	margin-top: 10px;
+	margin-left: 20px;
+
+}
+.msg1
+{
+	margin-top:0px;
+	padding: 10px;
+	background-color: dimgrey;
+	height: 30px;
+	width: 95%;
+	border-radius: 10px;
+}
+.msg2
+{
+	margin-top:0px;
+	padding: 10px;
+	background-color: dimgrey;
+	height: 40px;
+	width: 95%;
+	border-radius: 10px;
+	text-align: center;
+}
+.msg3
+{
+	margin-top:0px;
+	padding: 10px;
+	background-color: ;
+	height: 30px;
+	width: 95%;
+	border-radius: 10px;
+}
+.msg4
+{
+	margin-top:0px;
+	padding: 10px;
+	background-color: ;
+	height: 30px;
+	width: 95%;
+	border-radius: 10px;
+}
+.msg5
+{
+	margin-top:0px;
+	padding: 10px;
+	background-color: ;
+	height: 30px;
+	width: 95%;
+	border-radius: 10px;
+}
+.msg6
+{
+	margin-top:0px;
+	padding: 10px;
+	background-color: ;
+	height: 30px;
+	width: 95%;
+	border-radius: 10px;
+}
+.in
+{
+	height: 30px;
+	width: 99%;
+	border-radius: 20px;
+	text-indent: 20px;
+  
+}

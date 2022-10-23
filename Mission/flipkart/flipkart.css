@@ -1,0 +1,261 @@
+*
+{
+	padding: 0px;
+	margin: 0px;
+}
+.body
+{
+	background-color: white;
+}
+.header
+{
+	height: 75px;
+	width: 100%;
+	float: left;
+	background-color: blue;
+}
+.h1
+{
+	height: 75px;
+	width:23%;
+	/*background-color: red;*/
+	float: left;
+
+}
+.h1 h2
+{
+	text-align: right;
+	margin-right: 30px;
+	color: white;
+
+}
+.h1 p
+{
+	text-align: center;
+	color: white;
+	margin-left: 200px;
+}
+.search
+{
+	height: 40px;
+	width: 70%;
+	float: left;
+	margin-top: 20px;
+
+}
+.search input
+{
+	height: 40px;
+	width: 70%;
+	text-align: center;
+	float: left;
+}
+
+.search button
+{
+	height: 40px;
+	width: 20%;
+	text-align: center;
+	float: left;
+	font-size: 17px;
+	color: blue;
+	margin-left: 20px;
+}
+.area1
+{
+	height: 650px;
+	width: 70%;
+	/*background-color: red;*/
+	float: left;
+	background-color:rgb(220,220,220);
+}
+.padd
+{
+	padding: 25px;
+	box-shadow: 0px 0px 0px 0px gray;
+}
+.area2
+{
+	height: 650px;
+	width: 30%;
+	/*background-color: yellow;*/
+	float: left;
+	background-color:rgb(220,220,220);
+}
+}
+.a11
+{
+	height: 50px;
+	width: 100%;
+	background-color:white;
+	box-shadow: 0px 0px 0px 0px gray;
+	/*clip-path: polygon(69% 0, 100% 32%, 0 31%, 0 0);*/
+}
+.a111
+{
+	text-align: center;
+	/*color: white;*/
+	width: 50%;
+	height: 50px;
+	padding-top: 15px;
+	float: left;
+	font-size: 18px;
+
+}
+.a111:hover
+{
+	color: blue;
+	font-size: 20px;
+	text-decoration: underline;
+	text-decoration-color: style;
+	background-color: lawngreen;
+
+}
+.a112
+{
+	text-align: center;
+	/*color: white;*/
+	width: 50%;
+	height: 50px;
+	padding-top: 15px;
+	float: left;
+	font-size: 18px;																													
+}
+.a112:hover
+{
+	color: blue;
+	font-size: 20px;
+	text-decoration: underline;
+	text-decoration-color: style;
+	background-color: lawngreen;
+	
+}
+.a113
+{
+	width: 100%;
+	height: 35px;
+	/*background-color: gray;*/
+}
+.a114
+{
+	text-align: center;
+	color: white;
+	width: 100%;
+	height: 50px;
+	float: left;
+	background-color: white;
+	box-shadow: 0px 0px 0px 0px gray;
+}
+.a114 h3
+{
+	font-size: 15px;
+	color:black;
+	margin-left: -700px;
+	margin-top: 15px;
+}
+.a114 button
+{
+	margin-left: 100px;
+	position: absolute;
+	top: 175px;
+	left: 620px;
+	padding: 5px;
+	color: blue;
+}
+.a115
+{
+	width: 100%;
+	height: 0px;
+	/*background-color: gray;*/
+	float: left;
+	box-shadow: 0px 0px 0px 0px gray;
+}
+.a116
+{
+	height: 300px;
+	width: 100%;
+	background-color: white;
+}
+.body1
+{
+	width: 25%;
+	height: 300px;
+	background-color: white;
+	float: left;
+
+}
+.body1 img
+{
+	width: 100%;
+	height: 250px;
+	/*background-color: yellow;*/
+	float: left;
+}
+.body2
+{
+	width: 50%;
+	height: 300px;
+	background-color: white;
+	float: left;
+
+}
+.body2 h2
+{
+   font-size: 18px;
+   margin-top: 50px;
+   margin-left: 20px;
+}
+.body3
+{
+	width: 25%;
+	height: 300px;
+	/*background-color: orange;*/
+	float: right;
+
+
+}
+
+.btn1{
+
+	height: 40px;
+	width: 30%;
+	background-color: orange;
+	color: white;
+	font-size: 20px;
+	border: none;
+	margin-left: 200px;
+	margin-top: 40px;
+
+}
+.btn2
+{
+	height: 40px;
+	width: 30%;
+	background-color: orange;
+	font-size: 20px;
+	color: white;
+	border: none;
+}
+.details
+{
+   height: 400px;
+   width: 80%;
+   background-color: white;
+   border-radius: 10px;
+   box-shadow: 0px 0px 20px 0px gray;
+   margin-left: 30px;
+   margin-top: 50px;
+}
+.head h3
+{
+	margin-left:  50px;
+	padding-top: 10px;
+}
+.head pre
+{
+   margin-top: 10px;
+}
+.note
+{
+	margin-top: 0px;
+}

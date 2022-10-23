@@ -1,0 +1,183 @@
+.background1{
+    width: 100%;
+    height: 200px;
+    background-color: #128c7e;
+    float: left;
+}
+.background2{
+    width: 100%;
+    height: 535px;
+    background-color: #ece5dd;
+    float: left;
+}
+.main_box{
+    width: 75%;
+    height: 530px;
+    background-color: orange;
+    float: left;
+    position: absolute;
+    top: 100px;
+    left: 190px;
+
+}
+.name_list{
+width: 35%;
+height: 100%;
+float: left;
+background-color: aquamarine;
+background-color: white;
+}
+.chatting{
+    width: 65%;
+    height: 100%;
+    float: left;
+    background-color: mediumslateblue;
+}
+.headpart{
+    width: 100%;
+    height: 50px;
+    background-color: wheat;
+    float: left;
+   
+}
+.p1{
+    width: 65%;
+    height: 100%;
+  
+    float: left;
+}
+.msg1{
+    font-size: 31px;
+    text-align: center;
+    margin-top: 10px;
+
+}
+.dp{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-top: 5px;
+    margin-left: 15px;
+}
+.p2{
+    width: 15%;
+    height: 100%;
+   
+    float: left;
+}
+.p3{
+    width: 20%;
+    height: 100%;
+   
+    float: left;
+}
+.search{
+    width: 100%;
+    height: 57px;
+    background-color: white;
+    float: left;
+}
+.searchbar{
+    width: 90%;
+    height: 40px;
+    float: left;
+    border: 1px solid black;
+   border-radius: 10px solid black;
+   margin-top: 6px;
+   margin-left: 15px;
+
+}
+.searchicon{
+    font-size: 25px;
+    margin-top: 5px;
+    margin-left: 5px;
+    opacity: 0.5;
+}
+.searchbarinner{
+    width: 85%;
+    height: 33px;
+    /* float: right; */
+    border: none;
+    
+}
+.chatbox{
+    width: 100%;
+    height: 50px;
+    background-color: wheat;
+    float: left;
+}
+.chat1{
+    width: 100%;
+    height: 60px;
+    /* background-color: purple; */
+    background-color: white;
+    float: left;
+}
+.chat1 h3{
+    margin-left: 80px;
+    /* margin-bottom: 55px; */
+    margin-top: 5px;
+}
+.img11{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-top: 5px;
+    margin-left: 10px;
+    float: left;
+}
+.chatbox1{
+    width: 47px;
+    height: 47px;
+    /* position:absolute; */
+    border-radius: 50%;
+    margin-left: 15px;
+    float:left;
+}
+.chatinfo{
+    margin-left: 15px;
+    width: 150px;
+    height: 48px;
+    /* background-color: red; */
+    position: absolute;
+    left: 460px;
+    bottom: 495px;
+    
+}
+
+.messages{
+    width:100%;
+    height: 480px;
+    float: left;
+    /* background-color: green; */
+    background-color: #ece5dd;
+    overflow-y: scroll;
+}
+.m1{
+    width: 200px;
+    height: 50px;
+    background-color: white;
+    border-radius: 10px ;
+    margin-left: 35px;
+   
+    
+}
+.m2{
+    width: 200px;
+    height: 50px;
+    background-color: #dcf8c6;
+    border-radius: 10px;
+    margin-left: 500px;
+}
+.searchchat{
+    font-size: 26px;
+    position: absolute;
+    left: 1040px;
+    top: 10px;
+}
+.bars{
+    font-size: 26px;
+    position: absolute;
+    left: 1100px;
+    top: 10px;
+}
