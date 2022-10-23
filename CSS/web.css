@@ -1,0 +1,222 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+
+}
+.main
+{
+	height: 700px;
+	width: 100%;
+	background-color: red;
+	background-image: url(p11.webp);
+	background-size: 100% 100%;
+
+}
+.menu
+{
+	height: 100px;
+	width: 100%;
+	float: left;
+    background-color: hsla(240,100%,30%,0.3);
+
+}
+.menu_logo
+{
+	height: 90px;
+	width: 25%;
+	font-size: 60px;
+	font-weight: bold;
+	color: orange;
+	text-align: center;
+	/*background-color: red;*/
+	padding-top: 10px;
+    float: left;
+}
+.menu_bar
+{
+	  width: 50%;
+	  height: 100px;
+     /*background-color: red;*/
+     font-size: 22px;
+     color: white;
+    text-align: center;
+    float: left;
+}
+.menu_bar li
+{
+	display:inline-block;
+	list-style-type: none;
+	 margin-top: 40px;
+    margin-left: 20px;
+    text-align: center;
+}
+.menu_search
+{
+	width: 25%;
+	height: 100px;
+	/*background-color: red;*/
+	float: left;
+
+}
+.menu_search input
+{
+    margin-left: 30px;
+    margin-top: 30px;
+    width: 150px;
+    height: 50px;
+    border:2px solid orange;
+    text-align: center;
+}
+.menu_search button
+{
+
+	width: 100px;
+	height: 50px;
+	border:none;
+	background-color: orange;
+	color: white;
+	margin-left: -3.5px;
+	font-size: 20px;
+	 border:2px solid orange;
+	 
+}
+.button
+{
+	margin-top: 2px;
+	float: right;
+	margin-top: 30px;
+	margin-right: 52.5px;
+	 border:2px solid orange;
+}
+
+.area1
+{
+   height: 600px;
+   width: 50%;
+   /*background-color: red;*/
+  float: left;
+}
+.area21
+{
+   height: 600px;
+   width: 50%;
+   /*background-color:blue;*/
+   float: left;
+}
+.area1 h1
+{
+	font-size: 70px;
+	color: white;
+	margin-top: 5px;
+
+}
+.area1 p
+{
+	color: white;
+	font-size: 22px;
+	margin-top: 10px;
+}
+.area1 button
+{
+	background-color: orange;
+	width: 100px;
+	height: 50px;
+	border-radius: 10px;
+	font-size: 20px;
+	border:none;
+	margin-top: 10px;
+	float: left;
+}
+
+.area1_padd
+{
+	padding: 50px 100px;
+	float: left;
+}
+.area2
+{
+	height: 500px;
+	width: 60%;
+	background-color: black;
+	box-shadow: 0px 0px 20px 0px white;
+	margin-top: 40px;
+	margin-left: 130px;border-radius: 10px;
+
+}
+.area2 h2
+{
+	width:100%;
+	height: 50px;
+	text-align: center;
+	background-color: white;
+	color: orange;
+	font-size:30px;
+	border-radius: 10px;
+
+
+}
+.area2 input
+{
+	width: 100%;
+	height: 50px;
+	color:white;
+	background: transparent;
+	text-align: center;
+
+}
+
+.area2 button
+{
+	width:100%;
+	height: 50px;
+	text-align: center;
+	background-color: orange;
+	color: white;
+	font-size:30px;
+	border-radius: 10px;
+	margin-top: 15px;
+
+
+}
+.area2 p
+{
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 15px;
+}
+.area2 p a
+{
+	color: orange
+}
+.area2 h1
+{
+	text-align: center;
+	color: orange;
+	margin-top: 15px;
+}
+.apps li
+{
+   background-color: orange;
+   height: 50px;
+   width: 50px;
+   border-radius: 50%;
+   float: left;
+   text-align: center;
+   margin-left: 25px;
+   margin-top: 15px;
+
+}
+.apps li i
+{
+	color: white;
+	text-decoration: none;
+	margin-top: 15px;
+	font-size: 20px;
+
+}
+.area2_padd
+{
+	padding: 30px 10px;
+}

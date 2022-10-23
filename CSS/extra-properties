@@ -1,0 +1,125 @@
+border collapse:collapse;
+box-sizing:border_box / content-box;
+
+
+OUTLINE:-
+
+outline-offset;
+outline;
+
+BORDER RADIUS :-
+
+border-radius:
+border-top-left-radius:
+border-top-right-radius:
+border-bottom-left-radius:
+border-bottom-right-radius:
+
+
+TEXT :-
+
+color:red
+text-align:justify;
+text-align-last:
+teext-decoration:
+text-decoration-color:
+text-decoration-style:
+text-transform:
+text-indent:100px;
+word-spacing:
+line-spacing:
+word-wrap: --------- (read more option type hidden data)
+
+
+FONT;-
+font-weight:(bold,normal,900,700) -------- 
+font-style:
+font-size:
+font-family:
+
+
+HEIGHT & WIDTH:-
+
+height
+width
+max-width
+min-width
+max-height
+min-height
+
+
+
+float & clear:-
+
+float
+clear
+
+
+MARGIN:-
+
+margin
+margin-left
+margin-right
+margin-top
+margin-bottom
+
+
+Padding;-
+padding
+left
+right
+top
+bottom
+
+BACKGROUND:-
+
+backgroung-color
+backgroung-image=url()
+background-repeat
+background-position
+background-attachment
+
+background-blend-mode:
+
+
+
+COLOR-FORMAT:-
+
+hex
+rgb
+rgba
+hsl
+hsla
+
+
+OVERFLOW:-
+
+overflow:(scroll,hidden)
+overflow-x
+overflow-y
+
+
+SHDOW:-
+text-shadow
+box-shadow
+
+
+GRADIENT:-
+
+background-image:linear-
+background-image:radial-
+
+
+ICON:-
+
+font awesomes --------(kit,icon,link)---support text &font properties
+
+
+
+OPACITY:-
+
+opacity:0.1 to 1.0
+
+
+total prop count=
+)
